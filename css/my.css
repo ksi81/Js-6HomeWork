@@ -1,0 +1,70 @@
+div{
+border: 1px solid black;	
+}
+
+#block {
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.z2 {
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.block-menu{
+	position: fixed;
+	background: #000;
+	display: none;
+	margin: 0;
+}
+.z2 {
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ-BL5CEk3E5KnZ7qaa2arTtkT_B1VZzTslUXMNOk_zLzMkz-b);
+	
+}
+.boxx {
+	width: 30px;
+	height: 30px;
+	margin: 1px;
+	background-color: red;
+	transition: all ease .3s;
+	display: inline-block;	
+}
+.min-img {
+height: 100%;
+	width: 50px;
+}
+#z41 {
+	display: inline-block;
+}
+#z42 {
+	display: inline-block;
+	float: left;
+}
+#boxik {
+	width: 100%;
+	height: 250px;
+}
+.photo{
+	width: 5%;
+}
+#zad5{
+position: relative; 
+}
+#movingBox {
+	width: 50px;
+	height: 50px;	
+}
+#switch {
+	width: 320px;
+	height: 100px;
+	background-color: #443468;
+}
+#orangebox {
+	width: 100px;
+	height: 100px;
+	background-color: orange;
+	border-radius: 10%;
+	float: left;
+}
+
